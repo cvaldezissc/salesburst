@@ -1,2 +1,2 @@
 # salesburst
-A little sized project built with C#.Net
+A classic Sales Point system built on C#
